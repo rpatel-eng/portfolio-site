@@ -1,0 +1,17 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rachana Patel | Cloud Solutions Architect Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+    header { background: #004080; color: white; padding: 20px; text-align: center; }
+    header h1 { margin: 0; }
+    nav a { color: white; margin: 0 10px; text-decoration: none; }
+    section { padding: 40px; max-width: 900px; margin: auto; }
+    h2 { color: #004080; }
+    .project { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    footer { background: #004080; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+    a.button { display: inline-block; padding: 8px 16px; background: #004080; color: white; border-radius: 4px; text-decoration: none; }
+    a.button:hover { background: #00264d; }
+  </style>
+</head>
